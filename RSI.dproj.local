@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/02/07 21:39:01.000.288,=C:\Users\adria\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/02/24 13:21:42.000.688,=C:\Users\adria\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/02/26 19:05:26.000.786,=C:\Users\adria\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/07 14:46:32.000.077,=C:\Users\adria\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/07 14:46:57.000.925,C:\Users\adria\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\adria\Documents\Embarcadero\Studio\Projects\Rust Server Installer\uMain.pas</Transaction>
+    <Transaction>2018/03/07 14:46:57.000.925,C:\Users\adria\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\adria\Documents\Embarcadero\Studio\Projects\Rust Server Installer\uMain.dfm</Transaction>
+    <Transaction>2018/03/07 14:47:03.000.273,C:\Users\adria\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\adria\Documents\Embarcadero\Studio\Projects\Rust Server Installer\RSI.dproj</Transaction>
+    <Transaction>2018/03/07 15:42:15.000.228,=C:\Users\adria\Documents\Embarcadero\Studio\Projects\Rust Server Installer\uSSL.pas</Transaction>
+    <Transaction>2018/03/07 15:47:25.699,=C:\Users\adria\Documents\Embarcadero\Studio\Projects\Rust Server Installer\uBranchSelector.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
